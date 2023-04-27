@@ -1,5 +1,11 @@
 # Customer Service Requests Analysis
 
+DESCRIPTION
+
+You've been asked to perform data analysis of service request (311) calls from New York City. You've also been asked to utilize data wrangling techniques to understand the pattern in the data and visualize the major types of complaints.
+
+Perform the following steps:
+
 1. Understand the dataset:
 1.1 Import the dataset
 1.2 Visualize the dataset
